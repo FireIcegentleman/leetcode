@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6925d80d-86e3-402a-ae4c-0c90d616790f" name="Default Changelist" comment="" />
+    <list default="true" id="6925d80d-86e3-402a-ae4c-0c90d616790f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_101_SymmetricTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_84_LargestRectangleinHistogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_85_MaximalRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_94_BinaryTreeInorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_95_UniqueBinarySearchTreesII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_98_ValidateBinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_79_WordSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_79_WordSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/_78_Subsets.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/_78_Subsets.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +29,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -29,10 +43,13 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1nDz1bQEXAQX9D4wIEB5w4xDfbP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../RocketMQ/rocketmq-rocketmq-all-4.6.0" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -58,37 +75,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._78_Subsets">
-    <configuration name="_70_ClimbingStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_70_ClimbingStairs" />
+  <component name="RunManager" selected="Application._98_ValidateBinarySearchTree">
+    <configuration name="_84_LargestRectangleinHistogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_84_LargestRectangleinHistogram" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_72_EditDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_72_EditDistance" />
+    <configuration name="_85_MaximalRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_85_MaximalRectangle" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_75_SortColors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_75_SortColors" />
+    <configuration name="_94_BinaryTreeInorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_94_BinaryTreeInorderTraversal" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_76_MinimumWindowSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_76_MinimumWindowSubstring" />
+    <configuration name="_95_UniqueBinarySearchTreesII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_95_UniqueBinarySearchTreesII" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_78_Subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_78_Subsets" />
+    <configuration name="_98_ValidateBinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_98_ValidateBinarySearchTree" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._78_Subsets" />
-        <item itemvalue="Application._76_MinimumWindowSubstring" />
-        <item itemvalue="Application._75_SortColors" />
-        <item itemvalue="Application._72_EditDistance" />
-        <item itemvalue="Application._70_ClimbingStairs" />
+        <item itemvalue="Application._98_ValidateBinarySearchTree" />
+        <item itemvalue="Application._95_UniqueBinarySearchTreesII" />
+        <item itemvalue="Application._94_BinaryTreeInorderTraversal" />
+        <item itemvalue="Application._85_MaximalRectangle" />
+        <item itemvalue="Application._84_LargestRectangleinHistogram" />
       </list>
     </recent_temporary>
   </component>
@@ -187,11 +204,28 @@
       <workItem from="1631111408771" duration="214000" />
       <workItem from="1631153054498" duration="6974000" />
       <workItem from="1631182427565" duration="8073000" />
+      <workItem from="1631236224854" duration="3506000" />
+      <workItem from="1631275512525" duration="2212000" />
+      <workItem from="1631328508218" duration="3059000" />
+      <workItem from="1631338562585" duration="10753000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -410,6 +444,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/_78_Subsets.java</url>
           <line>39</line>
           <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_94_BinaryTreeInorderTraversal.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_98_ValidateBinarySearchTree.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="194" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
