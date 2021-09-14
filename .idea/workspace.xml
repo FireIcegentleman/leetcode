@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6925d80d-86e3-402a-ae4c-0c90d616790f" name="Default Changelist" comment="2021/09/11">
-      <change afterPath="$PROJECT_DIR$/src/main/java/_102_BinaryTreeLevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_104_MaximumDepthofBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_105_ConstructBinaryTreefromPreorderandInorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_114_FlattenBinaryTreetoLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_121_BestTimetoBuyandSellStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_124_BinaryTreeMaximumPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_128_LongestConsecutiveSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_136_SingleNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_139_WordBreak.java" afterDir="false" />
+    <list default="true" id="6925d80d-86e3-402a-ae4c-0c90d616790f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/_141_LinkedListCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_142_LinkedListCycleII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_146_LRUCache.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/_101_SymmetricTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_101_SymmetricTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_139_WordBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_139_WordBreak.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,35 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._136_SingleNumber">
-    <configuration name="_114_FlattenBinaryTreetoLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_114_FlattenBinaryTreetoLinkedList" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_121_BestTimetoBuyandSellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_121_BestTimetoBuyandSellStock" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_124_BinaryTreeMaximumPathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_124_BinaryTreeMaximumPathSum" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_128_LongestConsecutiveSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_128_LongestConsecutiveSequence" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application._146_LRUCache">
     <configuration name="_136_SingleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_136_SingleNumber" />
       <module name="leetcode" />
@@ -112,13 +78,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_139_WordBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_139_WordBreak" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_141_LinkedListCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_141_LinkedListCycle" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_142_LinkedListCycleII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_142_LinkedListCycleII" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_146_LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_146_LRUCache" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._146_LRUCache" />
+        <item itemvalue="Application._142_LinkedListCycleII" />
+        <item itemvalue="Application._141_LinkedListCycle" />
+        <item itemvalue="Application._139_WordBreak" />
         <item itemvalue="Application._136_SingleNumber" />
-        <item itemvalue="Application._128_LongestConsecutiveSequence" />
-        <item itemvalue="Application._124_BinaryTreeMaximumPathSum" />
-        <item itemvalue="Application._121_BestTimetoBuyandSellStock" />
-        <item itemvalue="Application._114_FlattenBinaryTreetoLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -214,6 +208,12 @@
       <workItem from="1631427111408" duration="799000" />
       <workItem from="1631499086397" duration="11081000" />
       <workItem from="1631531147861" duration="5820000" />
+      <workItem from="1631540234810" duration="36000" />
+      <workItem from="1631600917220" duration="2273000" />
+      <workItem from="1631603379845" duration="82000" />
+      <workItem from="1631603478218" duration="365000" />
+      <workItem from="1631603872157" duration="16000" />
+      <workItem from="1631603903747" duration="11996000" />
     </task>
     <task id="LOCAL-00001" summary="2021/09/11">
       <created>1631366303907</created>
@@ -222,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631366303907</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2021/09/13">
+      <created>1631540260526</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1631540260526</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,7 +250,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2021/09/11" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021/09/11" />
+    <MESSAGE value="2021/09/13" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021/09/13" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -492,6 +500,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/_128_LongestConsecutiveSequence.java</url>
           <line>43</line>
           <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_139_WordBreak.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="201" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
