@@ -1,7 +1,4 @@
-import java.util.ArrayList;
-import java.util.LinkedHashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 /**
  * 2021/09/14
@@ -15,7 +12,14 @@ import java.util.Map;
  *
  *  进阶：在O(1)时间复杂度内完成这两种操作
  * */
-public class _146_LRUCache extends LinkedHashMap<Integer , Integer> {
+/**
+ * 需要用到一个哈希表和一个双向链表。
+ * LRU缓存机制可以通过哈希表辅以双向链表实现，用一个哈希表和一个双向链表维护所有在缓存中的键值对：
+ *      双向链表按照被使用的顺序存储这些键值对，靠近头部的键值对是最近使用的，而靠近尾部的键值对是最久未使用的。
+ *      哈希表即为普通的哈希映射（HashMap），通过缓存数据的键映射到其在双向链表中的位置。
+ * tips：在双向链表的实现中，使用一个伪头部（dummy head）和伪尾部（dummy tail）标记界限，这样在添加节点和删除节点的时候就不需要检查相邻的节点是否存在。
+ * */
+public class _146_LRUCache /*extends LinkedHashMap<Integer , Integer>*/ {
     /*public int[][] memory ;// 模拟磁盘空间
     public int[] hot ; // 热度数组，记录每个位置的数据被访问的热度
     public _146_LRUCache(int capacity) {
@@ -105,20 +109,97 @@ public class _146_LRUCache extends LinkedHashMap<Integer , Integer> {
             }
         }
     }*/
+    // 定义双向链表里的节点
+    class DLinkedNode {
+        int key ;
+        int value ;
+        DLinkedNode prev ;
+        DLinkedNode next ;
+        public DLinkedNode(){}
+        public DLinkedNode(int _key , int _value){
+            key = _key ;
+            value = _value ;
+        }
+    }
+
+    private Map<Integer , DLinkedNode> cache = new HashMap<>() ;
+    // 双向链表节点个数
+    private int size ;
+    // 双向链表容量
     private int capacity ;
+    // 伪起点 与 伪终点
+    private DLinkedNode head , tail ;
+
     public _146_LRUCache(int capacity) {
-        super(capacity , 0.75F , true);
+        /*super(capacity , 0.75F , true);
+        this.capacity = capacity ;*/
+        this.size = 0 ;
         this.capacity = capacity ;
+        // 伪头部 和 伪尾部
+        this.head = new DLinkedNode() ;
+        this.tail = new DLinkedNode() ;
+        head.next = tail ;
+        tail.prev = head ;
     }
 
     public int get(int key) {
-        return super.getOrDefault(key ,  -1) ;
+        //return super.getOrDefault(key ,  -1) ;
+        DLinkedNode node = cache.get(key) ;
+        if(node == null){
+            return -1 ;
+        }
+        moveTohead(node) ;
+        return node.value ;
     }
 
-    // 这个可以不写
     public void put(int key, int value) {
-        super.put(key , value) ;
+        //super.put(key , value) ;
+        DLinkedNode node = cache.get(key) ;
+
+        if (node == null){
+            // 如果key不存在则创建一个新的节点放在头部
+            DLinkedNode newNode = new DLinkedNode(key , value) ;
+            // 添加进哈希表
+            cache.put(key , newNode) ;
+            addTohead(newNode);
+            size++ ;
+            if(size > capacity){
+                // 如果超出容量，则删除尾部节点
+                DLinkedNode tail = removeTail() ;
+                // 删除哈希表对应的项
+                cache.remove(tail.key) ;
+                --size ;
+            }
+        }else{
+            node.value = value ;
+            moveTohead(node);
+        }
     }
+
+    private DLinkedNode removeTail() {
+        DLinkedNode res = tail.prev ;
+        removeNode(res);
+        return res ;
+    }
+
+    private void addTohead(DLinkedNode node) {
+        node.prev = head ;
+        node.next = head.next ;
+        head.next.prev = node ;
+        head.next = node ;
+
+    }
+
+    private void removeNode(DLinkedNode node) {
+        node.prev.next = node.next ;
+        node.next.prev = node.prev ;
+    }
+    private void moveTohead(DLinkedNode node) {
+        removeNode(node) ;
+        addTohead(node) ;
+    }
+
+
 
     public static void main(String[] args) {
         String[] ope = {"LRUCache", "put", "put", "get", "put", "get", "put", "get", "get", "get"} ;
@@ -146,6 +227,5 @@ public class _146_LRUCache extends LinkedHashMap<Integer , Integer> {
  * LinkedHashMap的有序可以按两种顺序排列，一种是按照插入的顺序，一种是按照读取的顺序
  * （这个题目的示例就是告诉我们要按照读取的顺序进行排序），
  * 而其内部是靠 建立一个双向链表 来维护这个顺序的，在每次插入、删除后，都会调用一个函数来进行 双向链表的维护 ，
- *
  *
  * */

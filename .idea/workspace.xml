@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6925d80d-86e3-402a-ae4c-0c90d616790f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/_141_LinkedListCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_142_LinkedListCycleII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_146_LRUCache.java" afterDir="false" />
+    <list default="true" id="6925d80d-86e3-402a-ae4c-0c90d616790f" name="Default Changelist" comment="2021/09/14：需要着重看一下146题目的双链表做法">
+      <change afterPath="$PROJECT_DIR$/src/main/java/_148_SortList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_152_MaximumProductSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_155_MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_160_IntersectionofTwoLinkedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_169_MajorityElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/_139_WordBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_139_WordBreak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_146_LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_146_LRUCache.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,37 +72,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._146_LRUCache">
-    <configuration name="_136_SingleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_136_SingleNumber" />
+  <component name="RunManager" selected="Application._169_MajorityElement">
+    <configuration name="_148_SortList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_148_SortList" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_139_WordBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_139_WordBreak" />
+    <configuration name="_152_MaximumProductSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_152_MaximumProductSubarray" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_141_LinkedListCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_141_LinkedListCycle" />
+    <configuration name="_155_MinStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_155_MinStack" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_142_LinkedListCycleII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_142_LinkedListCycleII" />
+    <configuration name="_160_IntersectionofTwoLinkedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_160_IntersectionofTwoLinkedLists" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_146_LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_146_LRUCache" />
+    <configuration name="_169_MajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_169_MajorityElement" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -108,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._146_LRUCache" />
-        <item itemvalue="Application._142_LinkedListCycleII" />
-        <item itemvalue="Application._141_LinkedListCycle" />
-        <item itemvalue="Application._139_WordBreak" />
-        <item itemvalue="Application._136_SingleNumber" />
+        <item itemvalue="Application._169_MajorityElement" />
+        <item itemvalue="Application._160_IntersectionofTwoLinkedLists" />
+        <item itemvalue="Application._155_MinStack" />
+        <item itemvalue="Application._152_MaximumProductSubarray" />
+        <item itemvalue="Application._148_SortList" />
       </list>
     </recent_temporary>
   </component>
@@ -214,6 +216,8 @@
       <workItem from="1631603478218" duration="365000" />
       <workItem from="1631603872157" duration="16000" />
       <workItem from="1631603903747" duration="11996000" />
+      <workItem from="1631626783723" duration="374000" />
+      <workItem from="1631677200883" duration="14728000" />
     </task>
     <task id="LOCAL-00001" summary="2021/09/11">
       <created>1631366303907</created>
@@ -229,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631540260526</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2021/09/14：需要着重看一下146题目的双链表做法">
+      <created>1631626825405</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1631626825405</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,7 +262,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2021/09/11" />
     <MESSAGE value="2021/09/13" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021/09/13" />
+    <MESSAGE value="2021/09/14：需要着重看一下146题目的双链表做法" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021/09/14：需要着重看一下146题目的双链表做法" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -505,6 +517,36 @@
           <url>file://$PROJECT_DIR$/src/main/java/_139_WordBreak.java</url>
           <line>45</line>
           <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_148_SortList.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_148_SortList.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_155_MinStack.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_155_MinStack.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_160_IntersectionofTwoLinkedLists.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_169_MajorityElement.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="215" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
