@@ -31,7 +31,7 @@ public class _105_ConstructBinaryTreefromPreorderandInorderTraversal {
             return null ;
         }
 
-        int i = 0 ;
+        int i ;
         for (i = ileft ; i < iright ; i++){
             if(preorder[pleft] == inorder[i]){
                 break;

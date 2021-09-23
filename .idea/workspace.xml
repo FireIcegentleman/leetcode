@@ -2,18 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6925d80d-86e3-402a-ae4c-0c90d616790f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/_216_MaximalSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_226_InvertBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_234_PalindromeLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_236_LowestCommonAncestorofaBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_238_ProductofArrayExceptSelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_239_SlidingWindowMaximum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_240_Searcha2DMatrixII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_253_MeetingRoomsII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_279_PerfectSquares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_283_MoveZeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructure/Priorityqueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_287_FindtheDuplicateNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_297_SerializeandDeserializeBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_300_LongestIncreasingSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_301_RemoveInvalidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_309_BestTimetoBuyandSellStockwithCooldown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_312_BurstBalloons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_322_CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_337_HouseRobberIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_338_CountingBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_347_TopKFrequentElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_394_DecodeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_399_EvaluateDivision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_448_FindAllNumbersDisappearedinanArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_461_HammingDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_543_DiameterofBinaryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/_215_KthLargestElementinanArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_215_KthLargestElementinanArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_105_ConstructBinaryTreefromPreorderandInorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_105_ConstructBinaryTreefromPreorderandInorderTraversal.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,37 +98,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._283_MoveZeros">
-    <configuration name="_239_SlidingWindowMaximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_239_SlidingWindowMaximum" />
+  <component name="RunManager" selected="Application._461_HammingDistance">
+    <configuration name="_338_CountingBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_338_CountingBits" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_240_Searcha2DMatrixII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_240_Searcha2DMatrixII" />
+    <configuration name="_347_TopKFrequentElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_347_TopKFrequentElements" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_253_MeetingRoomsII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_253_MeetingRoomsII" />
+    <configuration name="_394_DecodeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_394_DecodeString" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_279_PerfectSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_279_PerfectSquares" />
+    <configuration name="_448_FindAllNumbersDisappearedinanArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_448_FindAllNumbersDisappearedinanArray" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_283_MoveZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_283_MoveZeros" />
+    <configuration name="_461_HammingDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_461_HammingDistance" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -130,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._283_MoveZeros" />
-        <item itemvalue="Application._279_PerfectSquares" />
-        <item itemvalue="Application._253_MeetingRoomsII" />
-        <item itemvalue="Application._240_Searcha2DMatrixII" />
-        <item itemvalue="Application._239_SlidingWindowMaximum" />
+        <item itemvalue="Application._461_HammingDistance" />
+        <item itemvalue="Application._448_FindAllNumbersDisappearedinanArray" />
+        <item itemvalue="Application._394_DecodeString" />
+        <item itemvalue="Application._347_TopKFrequentElements" />
+        <item itemvalue="Application._338_CountingBits" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +249,16 @@
       <workItem from="1631793167751" duration="3167000" />
       <workItem from="1631858747942" duration="17796000" />
       <workItem from="1631940635752" duration="13768000" />
-      <workItem from="1631967926835" duration="4326000" />
+      <workItem from="1631967926835" duration="4725000" />
+      <workItem from="1632017892076" duration="20000" />
+      <workItem from="1632047065453" duration="1189000" />
+      <workItem from="1632109369591" duration="6966000" />
+      <workItem from="1632196347041" duration="11698000" />
+      <workItem from="1632291038076" duration="7295000" />
+      <workItem from="1632307908565" duration="9254000" />
+      <workItem from="1632365964242" duration="4525000" />
+      <workItem from="1632375393805" duration="8211000" />
+      <workItem from="1632399260153" duration="3458000" />
     </task>
     <task id="LOCAL-00001" summary="2021/09/11">
       <created>1631366303907</created>
@@ -280,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631868562428</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2021/09/18">
+      <created>1631973375886</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1631973375886</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,7 +327,8 @@
     <MESSAGE value="2021/09/14：需要着重看一下146题目的双链表做法" />
     <MESSAGE value="2021/09/15" />
     <MESSAGE value="2021/09/17" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021/09/17" />
+    <MESSAGE value="2021/09/18" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021/09/18" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -536,11 +559,6 @@
           <option name="timeStamp" value="194" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/_105_ConstructBinaryTreefromPreorderandInorderTraversal.java</url>
-          <line>58</line>
-          <option name="timeStamp" value="197" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/_114_FlattenBinaryTreetoLinkedList.java</url>
           <line>103</line>
           <option name="timeStamp" value="198" />
@@ -662,8 +680,43 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/_283_MoveZeros.java</url>
-          <line>51</line>
+          <line>56</line>
           <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_297_SerializeandDeserializeBinaryTree.java</url>
+          <line>191</line>
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_297_SerializeandDeserializeBinaryTree.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_297_SerializeandDeserializeBinaryTree.java</url>
+          <line>112</line>
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_300_LongestIncreasingSubsequence.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="264" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_301_RemoveInvalidParentheses.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_322_CoinChange.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_394_DecodeString.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="267" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
