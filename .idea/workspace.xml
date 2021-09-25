@@ -2,24 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6925d80d-86e3-402a-ae4c-0c90d616790f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructure/Priorityqueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_287_FindtheDuplicateNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_297_SerializeandDeserializeBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_300_LongestIncreasingSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_301_RemoveInvalidParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_309_BestTimetoBuyandSellStockwithCooldown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_312_BurstBalloons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_322_CoinChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_337_HouseRobberIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_338_CountingBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_347_TopKFrequentElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_394_DecodeString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_399_EvaluateDivision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_448_FindAllNumbersDisappearedinanArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_461_HammingDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_543_DiameterofBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_406_QueueReconstructionbyHeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_416_PartitionEqualSubsetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_437_PathSumIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_438_FindAllAnagramsinaString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_494_TargetSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/_105_ConstructBinaryTreefromPreorderandInorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_105_ConstructBinaryTreefromPreorderandInorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_399_EvaluateDivision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_399_EvaluateDivision.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,37 +87,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._461_HammingDistance">
-    <configuration name="_338_CountingBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_338_CountingBits" />
+  <component name="RunManager" selected="Application._494_TargetSum">
+    <configuration name="_406_QueueReconstructionbyHeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_406_QueueReconstructionbyHeight" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_347_TopKFrequentElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_347_TopKFrequentElements" />
+    <configuration name="_416_PartitionEqualSubsetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_416_PartitionEqualSubsetSum" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_394_DecodeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_394_DecodeString" />
+    <configuration name="_437_PathSumIII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_437_PathSumIII" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_448_FindAllNumbersDisappearedinanArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_448_FindAllNumbersDisappearedinanArray" />
+    <configuration name="_438_FindAllAnagramsinaString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_438_FindAllAnagramsinaString" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_461_HammingDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_461_HammingDistance" />
+    <configuration name="_494_TargetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_494_TargetSum" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -136,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._461_HammingDistance" />
-        <item itemvalue="Application._448_FindAllNumbersDisappearedinanArray" />
-        <item itemvalue="Application._394_DecodeString" />
-        <item itemvalue="Application._347_TopKFrequentElements" />
-        <item itemvalue="Application._338_CountingBits" />
+        <item itemvalue="Application._494_TargetSum" />
+        <item itemvalue="Application._438_FindAllAnagramsinaString" />
+        <item itemvalue="Application._437_PathSumIII" />
+        <item itemvalue="Application._416_PartitionEqualSubsetSum" />
+        <item itemvalue="Application._406_QueueReconstructionbyHeight" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +247,9 @@
       <workItem from="1632307908565" duration="9254000" />
       <workItem from="1632365964242" duration="4525000" />
       <workItem from="1632375393805" duration="8211000" />
-      <workItem from="1632399260153" duration="3458000" />
+      <workItem from="1632399260153" duration="3614000" />
+      <workItem from="1632449405673" duration="13545000" />
+      <workItem from="1632562729033" duration="10876000" />
     </task>
     <task id="LOCAL-00001" summary="2021/09/11">
       <created>1631366303907</created>
@@ -302,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631973375886</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2021/09/23">
+      <created>1632403428845</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1632403428845</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,7 +326,8 @@
     <MESSAGE value="2021/09/15" />
     <MESSAGE value="2021/09/17" />
     <MESSAGE value="2021/09/18" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021/09/18" />
+    <MESSAGE value="2021/09/23" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021/09/23" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -717,6 +716,26 @@
           <url>file://$PROJECT_DIR$/src/main/java/_394_DecodeString.java</url>
           <line>90</line>
           <option name="timeStamp" value="267" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_416_PartitionEqualSubsetSum.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="274" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_437_PathSumIII.java</url>
+          <line>143</line>
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_438_FindAllAnagramsinaString.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="276" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_494_TargetSum.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="279" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
