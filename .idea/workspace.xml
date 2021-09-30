@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6925d80d-86e3-402a-ae4c-0c90d616790f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_10_Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_10_FogSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_3_RepeatNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_4_NumberIn2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_11_RotatoArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_12_PathInMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_13_RobertLimit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_14_CutRope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_5_ReplaceBlank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_6_ReversePrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_7_RebuildBinaryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SwordOffer/_9_TwoStackQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_9_TwoStackQueue.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +64,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RocketMQ/rocketmq-rocketmq-all-4.6.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../consensus" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -89,9 +91,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._10_FogSteps">
-    <configuration name="_10_Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordOffer._10_Fibonacci" />
+  <component name="RunManager" selected="Application._7_RebuildBinaryTree">
+    <configuration name="_12_PathInMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwordOffer._12_PathInMatrix" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -103,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_10_FogSteps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordOffer._10_FogSteps" />
+    <configuration name="_13_RobertLimit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwordOffer._13_RobertLimit" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -116,8 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_3_RepeatNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordOffer._3_RepeatNumber" />
+    <configuration name="_5_ReplaceBlank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwordOffer._5_ReplaceBlank" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -129,8 +131,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_4_NumberIn2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordOffer._4_NumberIn2DArray" />
+    <configuration name="_6_ReversePrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwordOffer._6_ReversePrint" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -142,8 +144,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_9_TwoStackQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordOffer._9_TwoStackQueue" />
+    <configuration name="_7_RebuildBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwordOffer._7_RebuildBinaryTree" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -157,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._10_FogSteps" />
-        <item itemvalue="Application._4_NumberIn2DArray" />
-        <item itemvalue="Application._3_RepeatNumber" />
-        <item itemvalue="Application._10_Fibonacci" />
-        <item itemvalue="Application._9_TwoStackQueue" />
+        <item itemvalue="Application._7_RebuildBinaryTree" />
+        <item itemvalue="Application._6_ReversePrint" />
+        <item itemvalue="Application._13_RobertLimit" />
+        <item itemvalue="Application._5_ReplaceBlank" />
+        <item itemvalue="Application._12_PathInMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -290,7 +292,11 @@
       <workItem from="1632731336875" duration="10000" />
       <workItem from="1632745058577" duration="366000" />
       <workItem from="1632808584365" duration="11000" />
-      <workItem from="1632825610504" duration="7199000" />
+      <workItem from="1632825610504" duration="7239000" />
+      <workItem from="1632914940715" duration="4634000" />
+      <workItem from="1632969044466" duration="39000" />
+      <workItem from="1632969153450" duration="2121000" />
+      <workItem from="1633001658755" duration="5912000" />
     </task>
     <task id="LOCAL-00001" summary="2021/09/11">
       <created>1631366303907</created>
@@ -355,7 +361,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632745261698</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="2021/09/28">
+      <created>1632837886243</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1632837886243</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -384,7 +397,8 @@
     <MESSAGE value="2021/09/23" />
     <MESSAGE value="2021/09/25" />
     <MESSAGE value="2021/09/27" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021/09/27" />
+    <MESSAGE value="2021/09/28" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021/09/28" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -828,6 +842,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_3_RepeatNumber.java</url>
           <line>25</line>
           <option name="timeStamp" value="293" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_12_PathInMatrix.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="294" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_7_RebuildBinaryTree.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="305" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
