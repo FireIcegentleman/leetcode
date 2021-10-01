@@ -1,25 +1,46 @@
-import java.util.ArrayList;
-import java.util.List;
+import javax.imageio.ImageIO;
+import java.awt.image.BufferedImage;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 
 /**
  * https://codetop.cc/home 企业高频题目
  * */
 public class test {
-    public static void main(String[] args) {
-        /*List<List<Integer>> ans = new ArrayList<>();
-        ArrayList<Integer> tem = new ArrayList<Integer>();
-        tem.add(5);
-        ans.add(new ArrayList<>(tem));
-        tem.add(6);*/
-
-        int[][] num = {{3,78},{3,96},{1,88},{3,90},{3,96},{2,95},{3,96},{3,90},{2,93}} ;
-        int mom = 0, child = 0 ;
-
-        for (int i = 0 ; i < num.length ; i++){
-            mom += num[i][1] * num[i][0];
-            child += num[i][0] ;
+    public static void create(File srcImgFile, File destAsciiImgFile) {
+        final String base = "@#&$%*o!;.";
+        String result = "";
+        try {
+            BufferedImage bufferedImage = ImageIO.read(srcImgFile);
+            for (int i = 0; i < bufferedImage.getHeight(); i += 32) {
+                for (int j = 0; j < bufferedImage.getWidth(); j += 8) {
+                    int pixel = bufferedImage.getRGB(j, i); // 下面三行代码将一个数字转换为RGB数字
+                    int red = (pixel & 0xff0000) >> 16;
+                    int green = (pixel & 0xff00) >> 8;
+                    int blue = (pixel & 0xff);
+                    float gray = 0.299f * red + 0.578f * green + 0.114f * blue;
+                    int index = Math.round(gray * (base.length() + 1) / 255);
+                    result += index >= base.length() ? " " : String.valueOf(base.charAt(index));
+                }
+                result += "\r\n";
+            }
+            FileWriter fileWriter = new FileWriter(destAsciiImgFile);
+            fileWriter.write(result);
+            fileWriter.flush();
+            fileWriter.close();
+//            System.out.print(result);
+        } catch (IOException e) {
+            e.printStackTrace();
         }
-        double res = 1.0 * mom / (1.0 * child) ;
-        System.out.println(res);
+    }
+    public static void create(String srcImgFile, String destAsciiImgFile) {
+        create(new File(srcImgFile),new File(destAsciiImgFile));
+    }
+
+    public static void main(String[] args) {
+        String srcImgFile = "" ;
+        String destAsciiImgFile = "" ;
+        create(srcImgFile , destAsciiImgFile);
     }
 }
