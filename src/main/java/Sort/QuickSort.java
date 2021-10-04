@@ -15,7 +15,7 @@ public class QuickSort {
 
     private int partition(int[] arr, int left, int right) {
         int pivot = left ;
-        // index记录比pivot小的数字序列的最大
+        // index记录比pivot小的数字序列的最大序号
         int index = pivot + 1 ;
 
         for (int i = index ; i<= right ; i++){

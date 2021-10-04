@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6925d80d-86e3-402a-ae4c-0c90d616790f" name="Default Changelist" comment="2021/10/01">
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_15_HammingWeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_16_Pow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_20_NumberCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_21_AdjustArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_22_KthFromEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_27_MirrorOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_28_SymmetricBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_29_SprialOrderPrint.java" afterDir="false" />
+    <list default="true" id="6925d80d-86e3-402a-ae4c-0c90d616790f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_17_PrintNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_18_DeleteNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_24_ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_30_MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_35_CpoyComplexList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_40_LeastNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SwordOffer/_26_SubStructureOfTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_26_SubStructureOfTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sort/QuickSort.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,9 +91,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._16_Pow">
-    <configuration name="_15_HammingWeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordOffer._15_HammingWeight" />
+  <component name="RunManager" selected="Application._40_LeastNumbers">
+    <configuration name="_17_PrintNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwordOffer._17_PrintNumbers" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_16_Pow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordOffer._16_Pow" />
+    <configuration name="_18_DeleteNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwordOffer._18_DeleteNode" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -120,8 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_21_AdjustArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordOffer._21_AdjustArray" />
+    <configuration name="_24_ReverseList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwordOffer._24_ReverseList" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -133,8 +131,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_22_KthFromEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordOffer._22_KthFromEnd" />
+    <configuration name="_35_CpoyComplexList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwordOffer._35_CpoyComplexList" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -146,8 +144,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_29_SprialOrderPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordOffer._29_SprialOrderPrint" />
+    <configuration name="_40_LeastNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwordOffer._40_LeastNumbers" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -161,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._16_Pow" />
-        <item itemvalue="Application._22_KthFromEnd" />
-        <item itemvalue="Application._29_SprialOrderPrint" />
-        <item itemvalue="Application._15_HammingWeight" />
-        <item itemvalue="Application._21_AdjustArray" />
+        <item itemvalue="Application._40_LeastNumbers" />
+        <item itemvalue="Application._35_CpoyComplexList" />
+        <item itemvalue="Application._18_DeleteNode" />
+        <item itemvalue="Application._24_ReverseList" />
+        <item itemvalue="Application._17_PrintNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -302,6 +300,11 @@
       <workItem from="1633087958510" duration="6840000" />
       <workItem from="1633142508284" duration="12593000" />
       <workItem from="1633164340332" duration="9893000" />
+      <workItem from="1633179898587" duration="42000" />
+      <workItem from="1633227211366" duration="1472000" />
+      <workItem from="1633317671986" duration="1926000" />
+      <workItem from="1633326633644" duration="5000" />
+      <workItem from="1633346084452" duration="8771000" />
     </task>
     <task id="LOCAL-00001" summary="2021/09/11">
       <created>1631366303907</created>
@@ -387,7 +390,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633098168197</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="2021/10/02">
+      <created>1633179918677</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1633179918677</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -419,7 +429,8 @@
     <MESSAGE value="2021/09/28" />
     <MESSAGE value="2021/09/30" />
     <MESSAGE value="2021/10/01" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021/10/01" />
+    <MESSAGE value="2021/10/02" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021/10/02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -909,11 +920,24 @@
           <line>49</line>
           <option name="timeStamp" value="314" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_24_ReverseList.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="316" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_18_DeleteNode.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="317" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/lolydleocom$_207_CourseSchedule.ic" NAME="_207_CourseSchedule Coverage Results" MODIFIED="1631773280609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/lolydleocom$_35_CpoyComplexList.ic" NAME="_35_CpoyComplexList Coverage Results" MODIFIED="1633349215896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>SwordOffer.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/lolydleocom$_45_JumpGameII.ic" NAME="_45_JumpGameII Coverage Results" MODIFIED="1630988561632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/lolydleocom$TwoSum.ic" NAME="TwoSum Coverage Results" MODIFIED="1610946034048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
