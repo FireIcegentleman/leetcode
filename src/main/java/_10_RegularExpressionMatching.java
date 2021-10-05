@@ -49,7 +49,7 @@ public class _10_RegularExpressionMatching {
                         f[i][j] = f[i][j] || f[i - 1][j];
                     }
                 } else {
-                    if (matches(s, p, i, j)) {
+                    if (matches(s, p, i, j - 1)) {
                         f[i][j] = f[i - 1][j - 1];
                     }
                 }
@@ -72,7 +72,7 @@ public class _10_RegularExpressionMatching {
         String s = "aab" ;
         String p = "c*a*b" ;
         _10_RegularExpressionMatching obj = new _10_RegularExpressionMatching() ;
-        System.out.println(obj.isMatch_simple(s , p)) ;
+        System.out.println(obj.isMatch(s , p)) ;
     }
 }
 /**

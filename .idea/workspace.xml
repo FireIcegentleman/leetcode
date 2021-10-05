@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6925d80d-86e3-402a-ae4c-0c90d616790f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_17_PrintNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_18_DeleteNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_24_ReverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_30_MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_35_CpoyComplexList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_40_LeastNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_19_IsMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_41_MedianFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_42_MaxSubArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_10_RegularExpressionMatching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_10_RegularExpressionMatching.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/_10_RegularExpressionMatching.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/_10_RegularExpressionMatching.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +62,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../consensus" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DesignPattern" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -91,48 +89,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._40_LeastNumbers">
-    <configuration name="_17_PrintNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordOffer._17_PrintNumbers" />
+  <component name="RunManager" selected="Application._42_MaxSubArray">
+    <configuration name="_10_RegularExpressionMatching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_10_RegularExpressionMatching" />
       <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SwordOffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_18_DeleteNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordOffer._18_DeleteNode" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SwordOffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_24_ReverseList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordOffer._24_ReverseList" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SwordOffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_35_CpoyComplexList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordOffer._35_CpoyComplexList" />
+    <configuration name="_19_IsMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwordOffer._19_IsMatch" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -157,13 +123,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_41_MedianFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwordOffer._41_MedianFinder" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SwordOffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_42_MaxSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwordOffer._42_MaxSubArray" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SwordOffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._42_MaxSubArray" />
+        <item itemvalue="Application._41_MedianFinder" />
+        <item itemvalue="Application._19_IsMatch" />
+        <item itemvalue="Application._10_RegularExpressionMatching" />
         <item itemvalue="Application._40_LeastNumbers" />
-        <item itemvalue="Application._35_CpoyComplexList" />
-        <item itemvalue="Application._18_DeleteNode" />
-        <item itemvalue="Application._24_ReverseList" />
-        <item itemvalue="Application._17_PrintNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -304,7 +296,9 @@
       <workItem from="1633227211366" duration="1472000" />
       <workItem from="1633317671986" duration="1926000" />
       <workItem from="1633326633644" duration="5000" />
-      <workItem from="1633346084452" duration="8771000" />
+      <workItem from="1633346084452" duration="9234000" />
+      <workItem from="1633402239198" duration="862000" />
+      <workItem from="1633413671315" duration="7445000" />
     </task>
     <task id="LOCAL-00001" summary="2021/09/11">
       <created>1631366303907</created>
@@ -397,7 +391,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633179918677</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="2021/10/04">
+      <created>1633355146883</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1633355146883</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -430,7 +431,8 @@
     <MESSAGE value="2021/09/30" />
     <MESSAGE value="2021/10/01" />
     <MESSAGE value="2021/10/02" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021/10/02" />
+    <MESSAGE value="2021/10/04" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021/10/04" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -929,6 +931,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_18_DeleteNode.java</url>
           <line>51</line>
           <option name="timeStamp" value="317" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_41_MedianFinder.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="318" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
