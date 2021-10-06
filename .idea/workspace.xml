@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6925d80d-86e3-402a-ae4c-0c90d616790f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_19_IsMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_41_MedianFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_42_MaxSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_31_ValidateSatckSequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_32_LevelOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_36_TreeToDoublyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_37_SerializeTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_38_Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_39_MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_43_CountDigitOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/_10_RegularExpressionMatching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_10_RegularExpressionMatching.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_10_RegularExpressionMatching.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/_10_RegularExpressionMatching.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,29 +91,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._42_MaxSubArray">
-    <configuration name="_10_RegularExpressionMatching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_10_RegularExpressionMatching" />
+  <component name="RunManager" selected="Application._39_MajorityElement">
+    <configuration name="_297_SerializeandDeserializeBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_297_SerializeandDeserializeBinaryTree" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_19_IsMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordOffer._19_IsMatch" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SwordOffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_40_LeastNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordOffer._40_LeastNumbers" />
+    <configuration name="_37_SerializeTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwordOffer._37_SerializeTree" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -123,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_41_MedianFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordOffer._41_MedianFinder" />
+    <configuration name="_38_Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwordOffer._38_Permutation" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -136,8 +125,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_42_MaxSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordOffer._42_MaxSubArray" />
+    <configuration name="_39_MajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwordOffer._39_MajorityElement" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SwordOffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_43_CountDigitOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwordOffer._43_CountDigitOne" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -151,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._42_MaxSubArray" />
-        <item itemvalue="Application._41_MedianFinder" />
-        <item itemvalue="Application._19_IsMatch" />
-        <item itemvalue="Application._10_RegularExpressionMatching" />
-        <item itemvalue="Application._40_LeastNumbers" />
+        <item itemvalue="Application._39_MajorityElement" />
+        <item itemvalue="Application._43_CountDigitOne" />
+        <item itemvalue="Application._38_Permutation" />
+        <item itemvalue="Application._37_SerializeTree" />
+        <item itemvalue="Application._297_SerializeandDeserializeBinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -299,6 +301,9 @@
       <workItem from="1633346084452" duration="9234000" />
       <workItem from="1633402239198" duration="862000" />
       <workItem from="1633413671315" duration="7445000" />
+      <workItem from="1633444462830" duration="184000" />
+      <workItem from="1633488643524" duration="4589000" />
+      <workItem from="1633517622812" duration="7237000" />
     </task>
     <task id="LOCAL-00001" summary="2021/09/11">
       <created>1631366303907</created>
@@ -398,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633355146883</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="2021/10/05">
+      <created>1633444476409</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1633444476409</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -432,7 +444,8 @@
     <MESSAGE value="2021/10/01" />
     <MESSAGE value="2021/10/02" />
     <MESSAGE value="2021/10/04" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021/10/04" />
+    <MESSAGE value="2021/10/05" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021/10/05" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -936,6 +949,46 @@
           <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_41_MedianFinder.java</url>
           <line>69</line>
           <option name="timeStamp" value="318" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_36_TreeToDoublyList.java</url>
+          <line>127</line>
+          <option name="timeStamp" value="320" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_37_SerializeTree.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="325" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_37_SerializeTree.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="326" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_297_SerializeandDeserializeBinaryTree.java</url>
+          <line>190</line>
+          <option name="timeStamp" value="328" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_38_Permutation.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="329" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_38_Permutation.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="330" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_43_CountDigitOne.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="331" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_39_MajorityElement.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="332" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
