@@ -1,10 +1,9 @@
 package SwordOffer;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
+
 /**
- * 2021/10/06
+ * 2021/10/07
  *
  * 从上到下打印二叉树
  *
@@ -27,8 +26,27 @@ public class _32_LevelOrder {
     }
     // 层次遍历
     public int[] levelOrder(TreeNode root) {
+        if (root == null){
+            return new int[0] ;
+        }
         List<Integer> list = new ArrayList<>() ;
 
+        Deque<TreeNode> q = new ArrayDeque<>() ;
+        q.addLast(root);
+
+        TreeNode peek = new TreeNode(0) ;
+        while (!q.isEmpty()){
+            peek = q.poll();
+            if (peek != null){
+                list.add(peek.val) ;
+            }
+            if(peek.left != null){
+                q.addLast(peek.left);
+            }
+            if(peek.right != null){
+                q.addLast(peek.right);
+            }
+        }
 
         int[] res = new int[list.size()] ;
         for (int i = 0 ; i < list.size() ; i++){
