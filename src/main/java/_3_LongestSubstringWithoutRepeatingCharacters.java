@@ -17,7 +17,7 @@ public class _3_LongestSubstringWithoutRepeatingCharacters{
         int tmp_length = 1 ;
         max_length = tmp_length ;
 
-        // 以每个字母开头计算最长不包含非重复字符的字串数目，知道最后一个字符，找到最长的
+        // 以每个字母开头计算最长不包含非重复字符的字串数目，直到最后一个字符，找到最长的
         for(int i = 0 ; i < s.length() ; i++){
             tmp_length = 1 ;
             // 1.如何创建可增减的数组

@@ -2,14 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6925d80d-86e3-402a-ae4c-0c90d616790f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_32_LevelOrderII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_32_LevelOrderIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_33_VerifyPostOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_44_FindNthDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_50_FirstUniqChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructure/Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_34_PathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_45_MinNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_46_TranslateNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_47_MaxValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_48_LengthOfLongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_49_UglyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_51_ReversePairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_52_GetIntersectionNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_53_MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_53_SearchNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_54_KthLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_55_MaxDepth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_56_SingleNumberII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_56_SingleNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_57_FindContinuousSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_57_TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_58_ReverseLeftWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_58_ReverseWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_59_MaxQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_59_MaxSlidingWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_60_DicesProbability.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_65_AddWitout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_66_ConstructArr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SwordOffer/_32_LevelOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_32_LevelOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SwordOffer/_43_CountDigitOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_43_CountDigitOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_3_LongestSubstringWithoutRepeatingCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_3_LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -91,9 +109,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._50_FirstUniqChar">
-    <configuration name="_32_LevelOrderII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordOffer._32_LevelOrderII" />
+  <component name="RunManager" selected="Application._66_ConstructArr">
+    <configuration name="_49_UglyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwordOffer._49_UglyNumber" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_32_LevelOrderIII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordOffer._32_LevelOrderIII" />
+    <configuration name="_59_MaxQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwordOffer._59_MaxQueue" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -118,8 +136,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_33_VerifyPostOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordOffer._33_VerifyPostOrder" />
+    <configuration name="_59_MaxSlidingWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwordOffer._59_MaxSlidingWindow" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -131,8 +149,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_44_FindNthDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordOffer._44_FindNthDigit" />
+    <configuration name="_65_AddWitout" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwordOffer._65_AddWitout" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -144,8 +162,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_50_FirstUniqChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordOffer._50_FirstUniqChar" />
+    <configuration name="_66_ConstructArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwordOffer._66_ConstructArr" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -159,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._50_FirstUniqChar" />
-        <item itemvalue="Application._33_VerifyPostOrder" />
-        <item itemvalue="Application._32_LevelOrderIII" />
-        <item itemvalue="Application._32_LevelOrderII" />
-        <item itemvalue="Application._44_FindNthDigit" />
+        <item itemvalue="Application._66_ConstructArr" />
+        <item itemvalue="Application._59_MaxQueue" />
+        <item itemvalue="Application._59_MaxSlidingWindow" />
+        <item itemvalue="Application._65_AddWitout" />
+        <item itemvalue="Application._49_UglyNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -312,6 +330,17 @@
       <workItem from="1633517622812" duration="7329000" />
       <workItem from="1633575359749" duration="3505000" />
       <workItem from="1633604789297" duration="8885000" />
+      <workItem from="1633614566542" duration="689000" />
+      <workItem from="1633659323301" duration="8000" />
+      <workItem from="1633690937395" duration="7215000" />
+      <workItem from="1633776324845" duration="6466000" />
+      <workItem from="1633832466070" duration="42000" />
+      <workItem from="1633843796079" duration="15433000" />
+      <workItem from="1633921691941" duration="7177000" />
+      <workItem from="1633954692433" duration="5841000" />
+      <workItem from="1634029787366" duration="29000" />
+      <workItem from="1634035804437" duration="5070000" />
+      <workItem from="1634041701214" duration="3257000" />
     </task>
     <task id="LOCAL-00001" summary="2021/09/11">
       <created>1631366303907</created>
@@ -425,7 +454,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633528012171</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="2021/10/07">
+      <created>1633614584520</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1633614584520</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -461,7 +497,8 @@
     <MESSAGE value="2021/10/04" />
     <MESSAGE value="2021/10/05" />
     <MESSAGE value="2021/10/06" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021/10/06" />
+    <MESSAGE value="2021/10/07" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021/10/07" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1025,6 +1062,81 @@
           <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_50_FirstUniqChar.java</url>
           <line>29</line>
           <option name="timeStamp" value="337" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_34_PathSum.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="338" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_56_SingleNumberII.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="339" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_57_FindContinuousSequence.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="340" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_46_TranslateNum.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="341" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_47_MaxValue.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="343" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_58_ReverseWords.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="344" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_58_ReverseWords.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="345" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_53_SearchNum.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="346" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_48_LengthOfLongestSubstring.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="347" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_54_KthLargest.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="349" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_49_UglyNumber.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="350" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_65_AddWitout.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="351" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_59_MaxSlidingWindow.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="352" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_59_MaxSlidingWindow.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="353" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_59_MaxQueue.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="354" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
