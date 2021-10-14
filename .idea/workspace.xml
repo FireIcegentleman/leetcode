@@ -2,32 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6925d80d-86e3-402a-ae4c-0c90d616790f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructure/Lambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_34_PathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_45_MinNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_46_TranslateNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_47_MaxValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_48_LengthOfLongestSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_49_UglyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_51_ReversePairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_52_GetIntersectionNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_53_MissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_53_SearchNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_54_KthLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_55_MaxDepth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_56_SingleNumberII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_56_SingleNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_57_FindContinuousSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_57_TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_58_ReverseLeftWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_58_ReverseWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_59_MaxQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_59_MaxSlidingWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_60_DicesProbability.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_65_AddWitout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_66_ConstructArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_55_IsBalance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_61_IsStraight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_62_LastRemaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_63_MaxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_64_SumNums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_67_StrToInt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/_3_LongestSubstringWithoutRepeatingCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_3_LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SwordOffer/_60_DicesProbability.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_60_DicesProbability.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +60,7 @@
   <component name="ProjectId" id="1nDz1bQEXAQX9D4wIEB5w4xDfbP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -109,9 +92,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._66_ConstructArr">
-    <configuration name="_49_UglyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordOffer._49_UglyNumber" />
+  <component name="RunManager" selected="Application._64_SumNums">
+    <configuration name="_55_IsBalance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwordOffer._55_IsBalance" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -123,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_59_MaxQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordOffer._59_MaxQueue" />
+    <configuration name="_61_IsStraight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwordOffer._61_IsStraight" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -136,8 +119,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_59_MaxSlidingWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordOffer._59_MaxSlidingWindow" />
+    <configuration name="_62_LastRemaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwordOffer._62_LastRemaining" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -149,8 +132,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_65_AddWitout" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordOffer._65_AddWitout" />
+    <configuration name="_63_MaxProfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwordOffer._63_MaxProfit" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -162,8 +145,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_66_ConstructArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordOffer._66_ConstructArr" />
+    <configuration name="_64_SumNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwordOffer._64_SumNums" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -177,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._66_ConstructArr" />
-        <item itemvalue="Application._59_MaxQueue" />
-        <item itemvalue="Application._59_MaxSlidingWindow" />
-        <item itemvalue="Application._65_AddWitout" />
-        <item itemvalue="Application._49_UglyNumber" />
+        <item itemvalue="Application._64_SumNums" />
+        <item itemvalue="Application._63_MaxProfit" />
+        <item itemvalue="Application._62_LastRemaining" />
+        <item itemvalue="Application._55_IsBalance" />
+        <item itemvalue="Application._61_IsStraight" />
       </list>
     </recent_temporary>
   </component>
@@ -340,7 +323,9 @@
       <workItem from="1633954692433" duration="5841000" />
       <workItem from="1634029787366" duration="29000" />
       <workItem from="1634035804437" duration="5070000" />
-      <workItem from="1634041701214" duration="3257000" />
+      <workItem from="1634041701214" duration="3542000" />
+      <workItem from="1634123295392" duration="6414000" />
+      <workItem from="1634196532997" duration="7455000" />
     </task>
     <task id="LOCAL-00001" summary="2021/09/11">
       <created>1631366303907</created>
@@ -461,7 +446,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633614584520</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="2021/10/12">
+      <created>1634045362594</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1634045362594</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -498,7 +490,8 @@
     <MESSAGE value="2021/10/05" />
     <MESSAGE value="2021/10/06" />
     <MESSAGE value="2021/10/07" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021/10/07" />
+    <MESSAGE value="2021/10/12" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021/10/12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1137,6 +1130,36 @@
           <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_59_MaxQueue.java</url>
           <line>55</line>
           <option name="timeStamp" value="354" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_67_StrToInt.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="357" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_67_StrToInt.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="358" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_61_IsStraight.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="359" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_62_LastRemaining.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="361" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_62_LastRemaining.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="362" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_63_MaxProfit.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="363" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
