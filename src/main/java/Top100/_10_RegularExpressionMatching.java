@@ -1,3 +1,5 @@
+package Top100;
+
 /**
  * 2021/2/1
  * leetcode 10
@@ -81,11 +83,11 @@ public class _10_RegularExpressionMatching {
  * 如果 p.charAt(j) == s.charAt(i) : dp[i][j] = dp[i-1][j-1]；
  * 如果 p.charAt(j) == '.' : dp[i][j] = dp[i-1][j-1]；
  * 如果 p.charAt(j) == '*'：
- * 如果 p.charAt(j-1) != s.charAt(i) : dp[i][j] = dp[i][j-2] //in this case, a* only counts as empty
- * 如果 p.charAt(i-1) == s.charAt(i) or p.charAt(i-1) == '.'：
- * dp[i][j] = dp[i-1][j] //in this case, a* counts as multiple a
- * or dp[i][j] = dp[i][j-1] // in this case, a* counts as single a
- * or dp[i][j] = dp[i][j-2] // in this case, a* counts as empty
+ *  如果 p.charAt(j-1) != s.charAt(i) : dp[i][j] = dp[i][j-2] //in this case, a* only counts as empty
+ *  如果 p.charAt(i-1) == s.charAt(i) or p.charAt(i-1) == '.'：
+ *      dp[i][j] = dp[i-1][j] //in this case, a* counts as multiple a
+ *      or dp[i][j] = dp[i][j-1] // in this case, a* counts as single a
+ *      or dp[i][j] = dp[i][j-2] // in this case, a* counts as empty
  *
  *  本质上来说，各种解法所依据的状态转移函数是一样的，
  *  在过程中需要多考虑的是‘*’的状态。

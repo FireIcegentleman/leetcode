@@ -93,7 +93,7 @@ public class _67_StrToInt {
     }
     public static void main(String[] args) {
         _67_StrToInt obj = new _67_StrToInt() ;
-        String str = " " ; //2147483647
+        String str = " -1010023630o4" ; //2147483647
         System.out.println(obj.strToInt(str));
     }
 }

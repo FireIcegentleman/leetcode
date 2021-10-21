@@ -2,9 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6925d80d-86e3-402a-ae4c-0c90d616790f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_68_LowestCommonAncestor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_68_lowestCommonAncestorII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_10_IsMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_11_MaxArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_12_IntToRoman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_13_RomanToInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_1_TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_2_AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_3_LengthOfLongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_4_FindMedianSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_5_LongestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_6_Convert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_7_Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_8_MyAtoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_9_IsPalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SwordOffer/_67_StrToInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_67_StrToInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SwordOffer/_68_LowestCommonAncestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_68_LowestCommonAncestor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SwordOffer/_68_lowestCommonAncestorII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_68_lowestCommonAncestorII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Top100/_10_RegularExpressionMatching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Top100/_10_RegularExpressionMatching.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Top100/_4_MedianOfTwoSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Top100/_4_MedianOfTwoSortedArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/_10_RegularExpressionMatching.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/_4_MedianOfTwoSortedArrays.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,13 +108,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._68_lowestCommonAncestorII">
-    <configuration name="_62_LastRemaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordOffer._62_LastRemaining" />
+  <component name="RunManager" selected="Application._13_RomanToInt">
+    <configuration name="_10_IsMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="All._10_IsMatch" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SwordOffer.*" />
+          <option name="PATTERN" value="All.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_63_MaxProfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordOffer._63_MaxProfit" />
+    <configuration name="_11_MaxArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="All._11_MaxArea" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SwordOffer.*" />
+          <option name="PATTERN" value="All.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_64_SumNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordOffer._64_SumNums" />
+    <configuration name="_12_IntToRoman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="All._12_IntToRoman" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SwordOffer.*" />
+          <option name="PATTERN" value="All.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_68_LowestCommonAncestor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordOffer._68_LowestCommonAncestor" />
+    <configuration name="_13_RomanToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="All._13_RomanToInt" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SwordOffer.*" />
+          <option name="PATTERN" value="All.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_68_lowestCommonAncestorII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwordOffer._68_lowestCommonAncestorII" />
+    <configuration name="_9_IsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="All._9_IsPalindrome" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SwordOffer.*" />
+          <option name="PATTERN" value="All.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._68_lowestCommonAncestorII" />
-        <item itemvalue="Application._68_LowestCommonAncestor" />
-        <item itemvalue="Application._64_SumNums" />
-        <item itemvalue="Application._63_MaxProfit" />
-        <item itemvalue="Application._62_LastRemaining" />
+        <item itemvalue="Application._13_RomanToInt" />
+        <item itemvalue="Application._12_IntToRoman" />
+        <item itemvalue="Application._11_MaxArea" />
+        <item itemvalue="Application._10_IsMatch" />
+        <item itemvalue="Application._9_IsPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -325,7 +344,14 @@
       <workItem from="1634196532997" duration="7455000" />
       <workItem from="1634210950485" duration="382000" />
       <workItem from="1634268790213" duration="8000" />
-      <workItem from="1634290399300" duration="3771000" />
+      <workItem from="1634290399300" duration="6858000" />
+      <workItem from="1634305666847" duration="42000" />
+      <workItem from="1634351092414" duration="3374000" />
+      <workItem from="1634436379610" duration="10000" />
+      <workItem from="1634442973112" duration="6013000" />
+      <workItem from="1634558565462" duration="6292000" />
+      <workItem from="1634609855412" duration="7730000" />
+      <workItem from="1634696841052" duration="6312000" />
     </task>
     <task id="LOCAL-00001" summary="2021/09/11">
       <created>1631366303907</created>
@@ -460,7 +486,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634211035692</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="2021/10/15 Change the structure">
+      <created>1634296391237</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1634296391237</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -500,7 +533,8 @@
     <MESSAGE value="2021/10/07" />
     <MESSAGE value="2021/10/12" />
     <MESSAGE value="2021/10/14 Change the structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021/10/14 Change the structure" />
+    <MESSAGE value="2021/10/15 Change the structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021/10/15 Change the structure" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -749,6 +783,51 @@
           <url>file://$PROJECT_DIR$/src/main/java/SwordOffer/_68_LowestCommonAncestor.java</url>
           <line>60</line>
           <option name="timeStamp" value="364" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/All/_1_TwoSum.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="365" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/All/_1_TwoSum.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="366" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/All/_2_AddTwoNumbers.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="367" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/All/_3_LengthOfLongestSubstring.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="368" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/All/_4_FindMedianSortedArrays.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="369" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/All/_7_Reverse.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="371" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/All/_8_MyAtoi.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="373" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/All/_9_IsPalindrome.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="375" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/All/_13_RomanToInt.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="377" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

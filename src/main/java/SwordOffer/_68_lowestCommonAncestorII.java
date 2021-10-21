@@ -1,5 +1,11 @@
 package SwordOffer;
-
+/**
+ * 2021/10/15
+ *
+ * 二叉树的公共祖先
+ *
+ * 想寻找两棵树的公共祖先
+ * */
 public class _68_lowestCommonAncestorII {
     public static class TreeNode {
         int val;
