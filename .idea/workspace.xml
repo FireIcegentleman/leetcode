@@ -2,25 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6925d80d-86e3-402a-ae4c-0c90d616790f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_14_LongestCommonPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_15_ThreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_16_ThreeSumClosest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_17_LetterCombinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_18_FourSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_19_RemoveNthFromEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_20_IsValid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_21_MergeTwoLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_22_GenerateParenthesis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_23_MergeKLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_24_SwapPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_25_ReverseKGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_26_RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_27_RemoveElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_28_StrStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_29_Divide.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -105,33 +89,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._27_RemoveElement">
-    <configuration name="_24_SwapPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="All._24_SwapPairs" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="All.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_25_ReverseKGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="All._25_ReverseKGroup" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="All.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application._29_Divide">
     <configuration name="_26_RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="All._26_RemoveDuplicates" />
       <module name="leetcode" />
@@ -158,6 +116,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_28_StrStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="All._28_StrStr" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="All.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_29_Divide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="All._29_Divide" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="All.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test" />
       <module name="leetcode" />
@@ -167,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._29_Divide" />
+        <item itemvalue="Application._28_StrStr" />
         <item itemvalue="Application._27_RemoveElement" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application._26_RemoveDuplicates" />
-        <item itemvalue="Application._25_ReverseKGroup" />
-        <item itemvalue="Application._24_SwapPairs" />
       </list>
     </recent_temporary>
   </component>
@@ -349,7 +333,7 @@
       <workItem from="1634904203143" duration="2242000" />
       <workItem from="1634958833875" duration="16872000" />
       <workItem from="1635041569702" duration="1917000" />
-      <workItem from="1635048414351" duration="2718000" />
+      <workItem from="1635048414351" duration="11444000" />
     </task>
     <task id="LOCAL-00001" summary="2021/09/11">
       <created>1631366303907</created>
@@ -498,7 +482,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634799559476</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="2021/10/24">
+      <created>1635056979615</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1635056979615</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -540,7 +531,8 @@
     <MESSAGE value="2021/10/14 Change the structure" />
     <MESSAGE value="2021/10/15 Change the structure" />
     <MESSAGE value="2021/10/20" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021/10/20" />
+    <MESSAGE value="2021/10/24" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021/10/24" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -887,8 +879,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/All/_27_RemoveElement.java</url>
-          <line>29</line>
+          <line>32</line>
           <option name="timeStamp" value="404" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/All/_29_Divide.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="406" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
