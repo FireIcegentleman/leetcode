@@ -7,6 +7,12 @@
     <groupId>lolydleo</groupId>
     <artifactId>lolydleo.com</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <repositories>
+        <repository>
+            <id>SciJava Public Repository</id>
+            <url>http://maven.scijava.org/content/repositories/public/</url>
+        </repository>
+    </repositories>
     <build>
         <plugins>
             <plugin>
@@ -26,7 +32,11 @@
             <version>RELEASE</version>
             <scope>compile</scope>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/com.github.ipfs/java-ipfs-api -->
+        <dependency>
+            <groupId>com.github.ipfs</groupId>
+            <artifactId>java-ipfs-api</artifactId>
+            <version>1.3.3</version>
+        </dependency>
     </dependencies>
-
-
 </project>

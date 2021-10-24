@@ -1,46 +1,42 @@
-import javax.imageio.ImageIO;
-import java.awt.image.BufferedImage;
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
+import java.util.HashSet;
+import java.util.Set;
 
 /**
  * https://codetop.cc/home 企业高频题目
  * */
 public class test {
-    public static void create(File srcImgFile, File destAsciiImgFile) {
-        final String base = "@#&$%*o!;.";
-        String result = "";
-        try {
-            BufferedImage bufferedImage = ImageIO.read(srcImgFile);
-            for (int i = 0; i < bufferedImage.getHeight(); i += 32) {
-                for (int j = 0; j < bufferedImage.getWidth(); j += 8) {
-                    int pixel = bufferedImage.getRGB(j, i); // 下面三行代码将一个数字转换为RGB数字
-                    int red = (pixel & 0xff0000) >> 16;
-                    int green = (pixel & 0xff00) >> 8;
-                    int blue = (pixel & 0xff);
-                    float gray = 0.299f * red + 0.578f * green + 0.114f * blue;
-                    int index = Math.round(gray * (base.length() + 1) / 255);
-                    result += index >= base.length() ? " " : String.valueOf(base.charAt(index));
-                }
-                result += "\r\n";
-            }
-            FileWriter fileWriter = new FileWriter(destAsciiImgFile);
-            fileWriter.write(result);
-            fileWriter.flush();
-            fileWriter.close();
-//            System.out.print(result);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-    }
-    public static void create(String srcImgFile, String destAsciiImgFile) {
-        create(new File(srcImgFile),new File(destAsciiImgFile));
-    }
+    public static Set<Integer> set = new HashSet<>();
+    public static int tmp = 0 ;
 
     public static void main(String[] args) {
-        String srcImgFile = "" ;
-        String destAsciiImgFile = "" ;
-        create(srcImgFile , destAsciiImgFile);
+        int[] arr = {2,2,4,4,4,4};
+        fullSort(arr, 0, arr.length - 1);
+        for (int i : set){
+            System.out.print(i + ",");
+        }
     }
+
+    public static void fullSort(int[] arr, int start, int end) {
+        // 递归终止条件
+        if (start == end) {
+            for (int i : arr) {
+                tmp = tmp * 10 + i ;
+            }
+            set.add(tmp) ;
+            tmp = 0 ;
+            return;
+        }
+        for (int i = start; i <= end; i++) {
+            swap(arr, i, start);
+            fullSort(arr, start + 1, end);
+            swap(arr, i, start);
+        }
+    }
+
+    private static void swap(int[] arr, int i, int j) {
+        int tmp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = tmp;
+    }
+
 }

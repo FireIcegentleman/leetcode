@@ -2,28 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6925d80d-86e3-402a-ae4c-0c90d616790f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_10_IsMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_11_MaxArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_12_IntToRoman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_13_RomanToInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_1_TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_2_AddTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_3_LengthOfLongestSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_4_FindMedianSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_5_LongestPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_6_Convert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_7_Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_8_MyAtoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_9_IsPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_14_LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_15_ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_16_ThreeSumClosest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_17_LetterCombinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_18_FourSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_19_RemoveNthFromEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_20_IsValid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_21_MergeTwoLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_22_GenerateParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_23_MergeKLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_24_SwapPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_25_ReverseKGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_26_RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_27_RemoveElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SwordOffer/_67_StrToInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_67_StrToInt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SwordOffer/_68_LowestCommonAncestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_68_LowestCommonAncestor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SwordOffer/_68_lowestCommonAncestorII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SwordOffer/_68_lowestCommonAncestorII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Top100/_10_RegularExpressionMatching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Top100/_10_RegularExpressionMatching.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Top100/_4_MedianOfTwoSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Top100/_4_MedianOfTwoSortedArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Result.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_10_RegularExpressionMatching.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_4_MedianOfTwoSortedArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,12 +78,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DesignPattern" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../netty/netty" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -108,9 +105,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._13_RomanToInt">
-    <configuration name="_10_IsMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="All._10_IsMatch" />
+  <component name="RunManager" selected="Application._27_RemoveElement">
+    <configuration name="_24_SwapPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="All._24_SwapPairs" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -122,8 +119,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_11_MaxArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="All._11_MaxArea" />
+    <configuration name="_25_ReverseKGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="All._25_ReverseKGroup" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -135,8 +132,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_12_IntToRoman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="All._12_IntToRoman" />
+    <configuration name="_26_RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="All._26_RemoveDuplicates" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -148,8 +145,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_13_RomanToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="All._13_RomanToInt" />
+    <configuration name="_27_RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="All._27_RemoveElement" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -161,26 +158,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_9_IsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="All._9_IsPalindrome" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
       <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="All.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._13_RomanToInt" />
-        <item itemvalue="Application._12_IntToRoman" />
-        <item itemvalue="Application._11_MaxArea" />
-        <item itemvalue="Application._10_IsMatch" />
-        <item itemvalue="Application._9_IsPalindrome" />
+        <item itemvalue="Application._27_RemoveElement" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application._26_RemoveDuplicates" />
+        <item itemvalue="Application._25_ReverseKGroup" />
+        <item itemvalue="Application._24_SwapPairs" />
       </list>
     </recent_temporary>
   </component>
@@ -351,7 +342,14 @@
       <workItem from="1634442973112" duration="6013000" />
       <workItem from="1634558565462" duration="6292000" />
       <workItem from="1634609855412" duration="7730000" />
-      <workItem from="1634696841052" duration="6312000" />
+      <workItem from="1634696841052" duration="13022000" />
+      <workItem from="1634817441363" duration="643000" />
+      <workItem from="1634819778912" duration="1599000" />
+      <workItem from="1634869555512" duration="6004000" />
+      <workItem from="1634904203143" duration="2242000" />
+      <workItem from="1634958833875" duration="16872000" />
+      <workItem from="1635041569702" duration="1917000" />
+      <workItem from="1635048414351" duration="2718000" />
     </task>
     <task id="LOCAL-00001" summary="2021/09/11">
       <created>1631366303907</created>
@@ -493,7 +491,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634296391237</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="2021/10/20">
+      <created>1634799559476</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1634799559476</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -534,16 +539,12 @@
     <MESSAGE value="2021/10/12" />
     <MESSAGE value="2021/10/14 Change the structure" />
     <MESSAGE value="2021/10/15 Change the structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021/10/15 Change the structure" />
+    <MESSAGE value="2021/10/20" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021/10/20" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/test.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="157" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Sort/QuickSort.java</url>
           <line>38</line>
@@ -828,6 +829,66 @@
           <url>file://$PROJECT_DIR$/src/main/java/All/_13_RomanToInt.java</url>
           <line>47</line>
           <option name="timeStamp" value="377" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/All/_16_ThreeSumClosest.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="378" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/All/_17_LetterCombinations.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="379" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/All/_18_FourSum.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="380" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/All/_18_FourSum.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="381" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/All/_21_MergeTwoLists.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="388" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/All/_23_MergeKLists.java</url>
+          <line>115</line>
+          <option name="timeStamp" value="390" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/All/_24_SwapPairs.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="394" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/All/_25_ReverseKGroup.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="396" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/All/_26_RemoveDuplicates.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="401" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/All/_26_RemoveDuplicates.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="402" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/test.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="403" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/All/_27_RemoveElement.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="404" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
