@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6925d80d-86e3-402a-ae4c-0c90d616790f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_28_StrStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_29_Divide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_30_FindSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_31_NextPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_32_LongestValidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_33_Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_34_SearchRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_35_SearchInsert.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,7 +66,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../netty/netty" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../old_buaachain_gateway/buaa-blockchain-gate" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -89,9 +93,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._29_Divide">
-    <configuration name="_26_RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="All._26_RemoveDuplicates" />
+  <component name="RunManager" selected="Application._35_SearchInsert">
+    <configuration name="_31_NextPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="All._31_NextPermutation" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -103,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_27_RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="All._27_RemoveElement" />
+    <configuration name="_32_LongestValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="All._32_LongestValidParentheses" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -116,8 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_28_StrStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="All._28_StrStr" />
+    <configuration name="_33_Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="All._33_Search" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -129,8 +133,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_29_Divide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="All._29_Divide" />
+    <configuration name="_34_SearchRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="All._34_SearchRange" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -142,20 +146,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
+    <configuration name="_35_SearchInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="All._35_SearchInsert" />
       <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="All.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._29_Divide" />
-        <item itemvalue="Application._28_StrStr" />
-        <item itemvalue="Application._27_RemoveElement" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application._26_RemoveDuplicates" />
+        <item itemvalue="Application._35_SearchInsert" />
+        <item itemvalue="Application._34_SearchRange" />
+        <item itemvalue="Application._33_Search" />
+        <item itemvalue="Application._32_LongestValidParentheses" />
+        <item itemvalue="Application._31_NextPermutation" />
       </list>
     </recent_temporary>
   </component>
@@ -333,7 +343,10 @@
       <workItem from="1634904203143" duration="2242000" />
       <workItem from="1634958833875" duration="16872000" />
       <workItem from="1635041569702" duration="1917000" />
-      <workItem from="1635048414351" duration="11444000" />
+      <workItem from="1635048414351" duration="12683000" />
+      <workItem from="1635160053048" duration="8440000" />
+      <workItem from="1635214647100" duration="623000" />
+      <workItem from="1635248438368" duration="7017000" />
     </task>
     <task id="LOCAL-00001" summary="2021/09/11">
       <created>1631366303907</created>
@@ -489,7 +502,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635056979615</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="2021/10/24 程序员节快乐">
+      <created>1635065906564</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1635065906564</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -532,7 +552,8 @@
     <MESSAGE value="2021/10/15 Change the structure" />
     <MESSAGE value="2021/10/20" />
     <MESSAGE value="2021/10/24" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021/10/24" />
+    <MESSAGE value="2021/10/24 程序员节快乐" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021/10/24 程序员节快乐" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -886,6 +907,21 @@
           <url>file://$PROJECT_DIR$/src/main/java/All/_29_Divide.java</url>
           <line>96</line>
           <option name="timeStamp" value="406" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/All/_32_LongestValidParentheses.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="407" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/All/_34_SearchRange.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="410" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/All/_35_SearchInsert.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="411" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
