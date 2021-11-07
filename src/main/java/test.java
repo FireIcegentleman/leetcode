@@ -4,7 +4,7 @@ import java.util.Set;
 /**
  * https://codetop.cc/home 企业高频题目
  * */
-public class test {
+public class test implements Runnable{
     public static Set<Integer> set = new HashSet<>();
     public static int tmp = 0 ;
 
@@ -39,4 +39,8 @@ public class test {
         arr[j] = tmp;
     }
 
+    @Override
+    public void run() {
+
+    }
 }

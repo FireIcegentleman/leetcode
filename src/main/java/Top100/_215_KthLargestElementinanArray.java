@@ -1,3 +1,5 @@
+package Top100;
+
 import jdk.nashorn.internal.runtime.arrays.IteratorAction;
 
 import java.awt.image.RasterOp;
@@ -124,8 +126,8 @@ public class _215_KthLargestElementinanArray {
 
     public static void main(String[] args) {
         _215_KthLargestElementinanArray obj = new _215_KthLargestElementinanArray() ;
-        int[] nums = {3,2,3,1,2,4,5,5,6} ;
-        int k = 4 ;
-        System.out.println(obj.findKthLargest(nums, k));
+        int[] nums = {3,2,1,5,6,4} ;
+        int k = 2 ;
+        System.out.println(obj.findKthLargest_quick(nums, k));
     }
 }

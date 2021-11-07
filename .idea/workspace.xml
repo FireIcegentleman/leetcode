@@ -1,14 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6925d80d-86e3-402a-ae4c-0c90d616790f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_30_FindSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_31_NextPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_32_LongestValidParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_33_Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_34_SearchRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/All/_35_SearchInsert.java" afterDir="false" />
+    <list default="true" id="6925d80d-86e3-402a-ae4c-0c90d616790f" name="Default Changelist" comment="2021/10/26">
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_36_IsValidSudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/All/_37_SolveSudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ByteDance/_10_Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ByteDance/_11_FindLengthOfLCIS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ByteDance/_12_FindKthLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ByteDance/_13_LongestConsecutive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ByteDance/_14_GetPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ByteDance/_15_FindCircleNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ByteDance/_16_Merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ByteDance/_17_Trap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ByteDance/_18_MergeTwoLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ByteDance/_19_ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ByteDance/_1_LengthOfLongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ByteDance/_20_AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ByteDance/_21_SortList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ByteDance/_22_DetectCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ByteDance/_23_GetIntersectionNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ByteDance/_24_MergeKLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ByteDance/_25_LowestCommonAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ByteDance/_26_ZigzagLevelOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ByteDance/_27_MaxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ByteDance/_28_MaxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ByteDance/_2_LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ByteDance/_3_CheckInclusion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ByteDance/_4_Multiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ByteDance/_5_ReverseWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ByteDance/_6_SimplifyPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ByteDance/_7_RestoreIpAddresses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ByteDance/_8_ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ByteDance/_9_MaxAreaOfIsland.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Interview/Singleton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/All/_35_SearchInsert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/All/_35_SearchInsert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Top100/_141_LinkedListCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Top100/_141_LinkedListCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Top100/_142_LinkedListCycleII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Top100/_142_LinkedListCycleII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Top100/_200_NumberofIsland.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Top100/_200_NumberofIsland.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Top100/_215_KthLargestElementinanArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Top100/_215_KthLargestElementinanArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Top100/_236_LowestCommonAncestorofaBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Top100/_236_LowestCommonAncestorofaBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Top100/_36_ValidSudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Top100/_36_ValidSudoku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Top100/_37_SudokuSolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Top100/_37_SudokuSolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/_36_ValidSudoku.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/_37_SudokuSolver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +103,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../old_buaachain_gateway/buaa-blockchain-gate" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jsnark-master/jsnark-master" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -93,13 +130,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._35_SearchInsert">
-    <configuration name="_31_NextPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="All._31_NextPermutation" />
+  <component name="RunManager" selected="Application._28_MaxProfit">
+    <configuration name="_24_MergeKLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ByteDance._24_MergeKLists" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="All.*" />
+          <option name="PATTERN" value="ByteDance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_32_LongestValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="All._32_LongestValidParentheses" />
+    <configuration name="_25_LowestCommonAncestor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ByteDance._25_LowestCommonAncestor" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="All.*" />
+          <option name="PATTERN" value="ByteDance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_33_Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="All._33_Search" />
+    <configuration name="_26_ZigzagLevelOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ByteDance._26_ZigzagLevelOrder" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="All.*" />
+          <option name="PATTERN" value="ByteDance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_34_SearchRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="All._34_SearchRange" />
+    <configuration name="_27_MaxProfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ByteDance._27_MaxProfit" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="All.*" />
+          <option name="PATTERN" value="ByteDance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +183,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_35_SearchInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="All._35_SearchInsert" />
+    <configuration name="_28_MaxProfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ByteDance._28_MaxProfit" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="All.*" />
+          <option name="PATTERN" value="ByteDance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._35_SearchInsert" />
-        <item itemvalue="Application._34_SearchRange" />
-        <item itemvalue="Application._33_Search" />
-        <item itemvalue="Application._32_LongestValidParentheses" />
-        <item itemvalue="Application._31_NextPermutation" />
+        <item itemvalue="Application._28_MaxProfit" />
+        <item itemvalue="Application._27_MaxProfit" />
+        <item itemvalue="Application._26_ZigzagLevelOrder" />
+        <item itemvalue="Application._25_LowestCommonAncestor" />
+        <item itemvalue="Application._24_MergeKLists" />
       </list>
     </recent_temporary>
   </component>
@@ -346,7 +383,30 @@
       <workItem from="1635048414351" duration="12683000" />
       <workItem from="1635160053048" duration="8440000" />
       <workItem from="1635214647100" duration="623000" />
-      <workItem from="1635248438368" duration="7017000" />
+      <workItem from="1635248438368" duration="7674000" />
+      <workItem from="1635334280052" duration="7087000" />
+      <workItem from="1635387820349" duration="765000" />
+      <workItem from="1635419291163" duration="5822000" />
+      <workItem from="1635473162783" duration="1910000" />
+      <workItem from="1635498644098" duration="596000" />
+      <workItem from="1635506847304" duration="7924000" />
+      <workItem from="1635557727187" duration="9917000" />
+      <workItem from="1635576781136" duration="809000" />
+      <workItem from="1635654040171" duration="5386000" />
+      <workItem from="1635745287003" duration="11000" />
+      <workItem from="1635765542902" duration="7716000" />
+      <workItem from="1635820841869" duration="17000" />
+      <workItem from="1635853477771" duration="4948000" />
+      <workItem from="1635920100660" duration="6000" />
+      <workItem from="1635940087686" duration="1598000" />
+      <workItem from="1635994237518" duration="17000" />
+      <workItem from="1636026605769" duration="2636000" />
+      <workItem from="1636074540023" duration="8000" />
+      <workItem from="1636076178099" duration="603000" />
+      <workItem from="1636078501995" duration="9000" />
+      <workItem from="1636106855129" duration="8235000" />
+      <workItem from="1636198663316" duration="1085000" />
+      <workItem from="1636251478257" duration="271000" />
     </task>
     <task id="LOCAL-00001" summary="2021/09/11">
       <created>1631366303907</created>
@@ -509,7 +569,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635065906564</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="2021/10/26">
+      <created>1635256336501</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1635256336501</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -553,7 +620,8 @@
     <MESSAGE value="2021/10/20" />
     <MESSAGE value="2021/10/24" />
     <MESSAGE value="2021/10/24 程序员节快乐" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021/10/24 程序员节快乐" />
+    <MESSAGE value="2021/10/26" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021/10/26" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -920,8 +988,88 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/All/_35_SearchInsert.java</url>
-          <line>33</line>
+          <line>40</line>
           <option name="timeStamp" value="411" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/All/_36_IsValidSudoku.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="412" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ByteDance/_2_LongestCommonPrefix.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="413" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ByteDance/_3_CheckInclusion.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="416" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ByteDance/_3_CheckInclusion.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="417" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ByteDance/_5_ReverseWords.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="420" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ByteDance/_6_SimplifyPath.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="421" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ByteDance/_7_RestoreIpAddresses.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="422" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ByteDance/_9_MaxAreaOfIsland.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="423" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ByteDance/_10_Search.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="424" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ByteDance/_18_MergeTwoLists.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="428" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ByteDance/_19_ReverseList.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="431" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ByteDance/_20_AddTwoNumbers.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="432" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ByteDance/_21_SortList.java</url>
+          <line>124</line>
+          <option name="timeStamp" value="433" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ByteDance/_22_DetectCycle.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="435" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ByteDance/_24_MergeKLists.java</url>
+          <line>126</line>
+          <option name="timeStamp" value="437" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ByteDance/_25_LowestCommonAncestor.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="440" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -1,3 +1,5 @@
+package Top100;
+
 /**
  * 2021/09/14
  * 环形链表
@@ -31,6 +33,7 @@ public class _141_LinkedListCycle {
         ListNode p = head ;
         ListNode q = head ;
 
+        // 总会相遇
         while(p != null && q != null && q.next != null){
             p = p.next ;
             q = q.next.next ;
