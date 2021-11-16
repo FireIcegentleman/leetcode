@@ -1,4 +1,11 @@
+package Top100;
+
+import org.omg.CORBA.INTERNAL;
+import org.omg.PortableInterceptor.INACTIVE;
+
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
 /**
  * 2021/09/21
@@ -47,7 +54,7 @@ public class _300_LongestIncreasingSubsequence {
         // 当前长度为i + 1的尾部元素的值
         // 如果tails中的元素都比Num小，则将其插入到最后
         // 否则，用它覆盖掉比它大的元素中最小的那个
-        int[] tails = new int[n] ;
+        /*int[] tails = new int[n] ;
         for (int num : nums){
             int i = 0 , j = res ;
             while(i < j){
@@ -64,8 +71,33 @@ public class _300_LongestIncreasingSubsequence {
             }
         }
 
-        return res ;
+        return res ;*/
+        List<Integer> list = new ArrayList<>();
+        list.add(nums[0]) ;
+        for (int i = 1 ; i < nums.length ; i++){
+            if (nums[i] > list.get(list.size() - 1)){
+                list.add(nums[i]) ;
+            }else{
+                int index = binarySearch(list , nums[i]) ;
+                list.set(index , nums[i]) ;
+            }
+        }
+        return list.size() ;
     }
+
+    private int binarySearch(List<Integer> list, int num) {
+        int left = 0 , right = list.size() - 1;
+        while (left <= right){
+            int mid = (left + right) >> 1 ;
+            if (list.get(mid) < num){
+                left = mid + 1 ;
+            }else{
+                right = mid - 1 ;
+            }
+        }
+        return left ;
+    }
+
     public static void main(String[] args) {
         _300_LongestIncreasingSubsequence obj = new _300_LongestIncreasingSubsequence() ;
         int[] nums = {10,9,2,5,3,7,101,18} ;

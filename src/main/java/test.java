@@ -1,46 +1,42 @@
+import java.lang.reflect.Constructor;
+import java.lang.reflect.Method;
 import java.util.HashSet;
 import java.util.Set;
 
 /**
  * https://codetop.cc/home 企业高频题目
  * */
-public class test implements Runnable{
-    public static Set<Integer> set = new HashSet<>();
-    public static int tmp = 0 ;
+public class test{
+    private int price;
 
-    public static void main(String[] args) {
-        int[] arr = {2,2,4,4,4,4};
-        fullSort(arr, 0, arr.length - 1);
-        for (int i : set){
-            System.out.print(i + ",");
-        }
+    public int getPrice() {
+        return price;
     }
 
-    public static void fullSort(int[] arr, int start, int end) {
-        // 递归终止条件
-        if (start == end) {
-            for (int i : arr) {
-                tmp = tmp * 10 + i ;
-            }
-            set.add(tmp) ;
-            tmp = 0 ;
-            return;
-        }
-        for (int i = start; i <= end; i++) {
-            swap(arr, i, start);
-            fullSort(arr, start + 1, end);
-            swap(arr, i, start);
-        }
+    public void setPrice(int price) {
+        this.price = price;
     }
 
-    private static void swap(int[] arr, int i, int j) {
-        int tmp = arr[i];
-        arr[i] = arr[j];
-        arr[j] = tmp;
-    }
+    public static void main(String[] args) throws Exception {
+        // 正常的调用
+        test test = new test() ;
+        test.setPrice(5);
+        System.out.println("Apple Price:" + test.getPrice());
 
-    @Override
-    public void run() {
+        // 使用反射调用
+        // 获取对象的实例
+        Class clazz = Class.forName("test") ;
+        // 根据Class实例获取Constructor对象
+        Constructor appleConstructor = clazz.getConstructor() ;
+        // 使用appleConstructor对象的newInstance方法获取反射类对象
+        Object appleObj = appleConstructor.newInstance() ;
 
+        // 如果要使用类对象的方法
+        // 1. 首先需要获取方法的Method对象
+        Method setPriceMethod = clazz.getMethod("setPrice", int.class) ;
+        // 2. 利用invoke方法调用对象
+        setPriceMethod.invoke(appleObj , 14) ;
+        Method getPriceMethod = clazz.getMethod("getPrice") ;
+        System.out.println("Apple Price:" + getPriceMethod.invoke(appleObj));
     }
 }
